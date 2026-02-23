@@ -2,7 +2,7 @@
 
 ## Présentation
 
-**BetterAdManager** est le script unifié qui gère automatiquement l'intégration dans votre site des offres Adblock Choice et Preroll Press.
+**BetterAdManager** est le script unifié qui gère automatiquement l'intégration dans votre site des offres Adblock Choice et CTV Press.
 Il est tout à fait possible de n'activer qu'une partie des offres disponibles.
 
 ### Fonctionnement
@@ -100,9 +100,9 @@ Les logs apparaîtront dans la console du navigateur avec le préfixe `[BetterAd
 
 ## Configuration 
 
-### Conditions d'affichage du Preroll Press
+### Conditions d'affichage du CTV Press
 
-Vous pouvez choisir à partir de combien de pages va se déclencher le Preroll Press. Contactez votre account manager pour personnaliser la configuration.
+Vous pouvez choisir à partir de combien de pages va se déclencher le CTV Press. Contactez votre account manager pour personnaliser la configuration.
 
 ### Rollout progressif - ciblage des devices
 
