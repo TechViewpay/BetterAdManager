@@ -14,7 +14,7 @@ Il est tout à fait possible de n'activer qu'une partie des offres disponibles.
 │                            │                                    │
 │                  Détection automatique                          │
 │                            │                                    │
-│          ┌─────────────────┴─────────────────┐                  │
+│          ┌─── Si actif ────┴─── Si actif ────┐                  │
 │          │                                   │                  │
 │          ▼                                   ▼                  │
 │  ┌───────────────┐                 ┌───────────────┐            │
